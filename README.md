@@ -5,7 +5,7 @@ Thanks @DataWithDanny for the excellent SQL case studies! 👋🏻
 * Furthermore, I would recommend his course for anyone looking to get advanced SQL skills **[Serious-SQL](https://www.datawithdanny.com/courses/serious-sql)**
 
 ## 📕 Table of Contents
-- [Case Study #1: Danny's Diner](#case-study-1-dannys-diner)
+- [Case Study #1: Danny's Diner](https://github.com/sharma-ji/8weeksofsqlchallenge/blob/main/Case_study1.sql)
 
 ## Case Study #1: Danny's Diner 
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" alt="Image" width="450" height="450">
